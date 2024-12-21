@@ -3,8 +3,15 @@
 
 看见了nooblong 网易云的阿梓播客，所以也想下载自己喜欢的阿梓的歌。
 
+```Python
+update_time: 2024.12.21
+# bilibili api变化后这个方法可能会失效，注意使用时间
+```
+
+
 参考：
 - [nooblong/bilibili-to-netease-cloud-music: b站视频一键转网易云播客](https://github.com/nooblong/bilibili-to-netease-cloud-music?tab=readme-ov-file)
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
 - [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api)
 	- 基于[asyncio --- 异步 I/O — Python 3.13.1 文档](https://docs.python.org/zh-cn/3/library/asyncio.html)
 	- 获取基础cookies：[获取 Credential 类所需信息](https://nemo2011.github.io/bilibili-api/#/get-credential)
