@@ -28,7 +28,7 @@ pip3 install git+https://github.com/Nemo2011/bilibili-api.git@dev
 ## 1.3 使用示例
 
 ```bash
-python music.py -b BV1nek6YcEsJ
-python music.py -b BV1nek6YcEsJ -v # 下载视频
+python music.py -b BV1nek6YcEsJ # 下载mp3，存入`./music`
+python music.py -b BV1nek6YcEsJ -v # 下载视频，存入`./video`
 ```
 
